@@ -7844,10 +7844,10 @@
     jsdom "^22.1.0"
     lexical "^0.12.2"
 
-"@tryghost/kg-lexical-html-renderer@0.3.42":
-  version "0.3.42"
-  resolved "https://registry.yarnpkg.com/@tryghost/kg-lexical-html-renderer/-/kg-lexical-html-renderer-0.3.42.tgz#d433ab4af404d92e534f2cf25630aa338d1c81a5"
-  integrity sha512-j8QlbJDn5oIfoN+5rHLwrrfkXs1KhNuS0y8WvmA2tUq5N4XgLQvGbsEf9/E0cIs2t2CDSjfZjLx5tqXE7gw9/w==
+"@tryghost/kg-lexical-html-renderer@0.3.43":
+  version "0.3.43"
+  resolved "https://registry.yarnpkg.com/@tryghost/kg-lexical-html-renderer/-/kg-lexical-html-renderer-0.3.43.tgz#6434dab6ace6819cd95e454c476d0779e8cea146"
+  integrity sha512-oPSmKM5sfVCKEiEyB5AeLtEIYfvkuQOYSbBd3epl+KWPEt6+aFn9theITU8hJWe2hhBXEhqrQUZji1mVURjM6Q==
   dependencies:
     "@lexical/clipboard" "^0.12.2"
     "@lexical/code" "^0.12.2"
@@ -7898,10 +7898,10 @@
   dependencies:
     semver "^7.3.5"
 
-"@tryghost/koenig-lexical@0.5.12":
-  version "0.5.12"
-  resolved "https://registry.yarnpkg.com/@tryghost/koenig-lexical/-/koenig-lexical-0.5.12.tgz#36e03a3d007dc71b243be1d81fcb1125e4f53970"
-  integrity sha512-9hLhQ/6X7OlicMkGqPdsY6PBu7RaZntSlLHGgIp48dxU8lzQOKk2Nycrrvv+3DdR9Bzk79mmEWrj7vx2g9ggdw==
+"@tryghost/koenig-lexical@0.5.13":
+  version "0.5.13"
+  resolved "https://registry.yarnpkg.com/@tryghost/koenig-lexical/-/koenig-lexical-0.5.13.tgz#93d49bdad6585e99b2d98a3bbf33a303daa1a6d0"
+  integrity sha512-Q8S4k8NegwS10erSPmkjs3NJOjmB25yYcGxT4EhYUN577ts3/LLtMlyL2gAhjozlLQJh3p9oljjBQoIAlXa5lg==
 
 "@tryghost/limit-service@1.2.12", "@tryghost/limit-service@^1.2.10":
   version "1.2.12"
